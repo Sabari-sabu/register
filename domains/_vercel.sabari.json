@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "Sabari-sabu"
+    "username": "Sabari-sabu",
+    "email": "sabarinathanjo@gmail.com"
   },
   "records": {
-    "TXT": "vc-domain-verify=sabari.is-a.dev,7f5dd855a2cafc21d581"
+    "TXT": "vc-domain-verify=sabari.is-a.dev,4c9a657093718ebff621"
   }
 }
